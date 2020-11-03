@@ -1,0 +1,4 @@
+#!/bin/bash
+rm obj;
+gcc -o obj ex1.c;
+./obj /home/alessandro/Politecnico;

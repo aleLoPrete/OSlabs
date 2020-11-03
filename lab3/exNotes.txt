@@ -1,0 +1,13 @@
+
+
+2 c program that creates a tree of
+
+    suggestion - write it frist on paper
+
+Exercise 3 - precedence graph
+    
+    rule of thumb to execute precedence graph
+        every time that there a biforcation you NEED to fork a process
+        whenever we have a a conjutions means that two process must be synchronized
+            in order to do this we can use the WAIT system call(remember that
+            wait system call function only on the parent process)

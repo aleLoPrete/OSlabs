@@ -1,0 +1,7 @@
+Analysis of concurrent program
+
+When forking a process most of the fields are maintain unaltered:
+    Program cpounter is the same - they execute from the same point
+    Programs are executed in an order decided by the SCHEDULER
+        Multiple process are not in a deterministic order - it depends on the scheduler
+
