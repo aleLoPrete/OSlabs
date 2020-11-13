@@ -1,0 +1,1000 @@
+ 1001  cd *2
+ 1002  vim .
+ 1003  ranger
+ 1004  cowsay hi
+ 1005  cow hi
+ 1006  sudo apt install cowsay
+ 1007  cowsay hi
+ 1008  clear
+ 1009  cowsay ciao Stefanino
+ 1010  asciart
+ 1011  asciiart
+ 1012  cd ~
+ 1013  clear
+ 1014  cd ascify/
+ 1015  cd asciify/
+ 1016  clear
+ 1017  python3 asciify.py ~/Pictures/3stef.png 
+ 1018  CLEAR
+ 1019  clear
+ 1020  python3 asciify.py ~/Pictures/4stef.png 
+ 1021  r
+ 1022  clear
+ 1023  y Nic Marinelli principe del mio cuore
+ 1024  cowsay Nic Marinelli principe del mio cuore
+ 1025  cowsay Nic Marinelli principe del mio cuore
+ 1026  cd ~
+ 1027  vim .vimrc
+ 1028  clear
+ 1029  vim ~/.tmux.conf 
+ 1030  ranger
+ 1031  vim ~/.tmux.conf
+ 1032  vim
+ 1033  vim ~/.tmux.conf
+ 1034  export TERM=screen-256color
+ 1035  vim ~/.tmux.conf
+ 1036  tmux
+ 1037  tmux a
+ 1038  ls
+ 1039  which tmux
+ 1040  vim ~/.tmux.conf
+ 1041  clear
+ 1042  ls
+ 1043  vim ~/.tmux.conf
+ 1044  tmux
+ 1045  clear
+ 1046  tmux
+ 1047  clear
+ 1048  tmux
+ 1049  clear
+ 1050  cd codep/
+ 1051  ls
+ 1052  clear
+ 1053  ranger
+ 1054  tmux
+ 1055  tmux source-file ~/.tmux.conf
+ 1056  vim ~/.tmux.conf
+ 1057  tmux -2
+ 1058  export TERM=screen-256color
+ 1059  tmux
+ 1060  tmux info
+ 1061  vim ~/.tmux.conf
+ 1062  tmux
+ 1063  tmux source-file ~/.tmux.conf
+ 1064  git clone 70:~$ git clone 
+ 1065  git clone 70:~$ git clone 70:~$ git clone 
+ 1066  clear
+ 1067  git clone https://gist.github.com/echelon/0679be63f2dddcb6ca6e921e8e6d8724
+ 1068  ls
+ 1069  cd 0679be63f2dddcb6ca6e921e8e6d8724/
+ 1070  ls
+ 1071  tmux
+ 1072  tmux source-file ~/.tmux.conf
+ 1073  vim 0679be63f2dddcb6ca6e921e8e6d8724/
+ 1074  cd 0679be63f2dddcb6ca6e921e8e6d8724/
+ 1075  ls
+ 1076  vim .tmux.conf 
+ 1077  cd codep/
+ 1078  cd python/
+ 1079  cd
+ 1080  ls
+ 1081  cd -
+ 1082  l
+ 1083  ls
+ 1084  clear
+ 1085  ls
+ 1086  touch index.c
+ 1087  vim index.c 
+ 1088  cd ~
+ 1089  vim ~/.tmux.conf 
+ 1090  sudo apt install vim --override-system-vim
+ 1091  sudo apt install vim
+ 1092  sudo apt upgrade vim
+ 1093  sudo apt install vim-gtk
+ 1094  vim-gtk
+ 1095  vimgtk
+ 1096  vim
+ 1097  sudo apt remove vim-gtk
+ 1098  vim
+ 1099  vim ~/.tmux.conf 
+ 1100  
+ 1101  vim ~/.tmux.conf
+ 1102  tmux
+ 1103  tmux source-file ~/.tmux.conf
+ 1104  tmux
+ 1105  exit
+ 1106  vim nuovo
+ 1107  vim .vimrc
+ 1108  eixt
+ 1109  exit
+ 1110  vim .vimrc
+ 1111  vim -X
+ 1112  cd 0679be63f2dddcb6ca6e921e8e6d8724/
+ 1113  vim -X .tmux.conf 
+ 1114  vim ~/.tmux.conf
+ 1115  vim 0679be63f2dddcb6ca6e921e8e6d8724/
+ 1116  cd 0679be63f2dddcb6ca6e921e8e6d8724/
+ 1117  ls
+ 1118  vim .tmux.conf 
+ 1119  tmux source-file ~/.tmux.conf
+ 1120  exit
+ 1121  tmux
+ 1122  exit
+ 1123  tmux source-file ~/.tmux.conf
+ 1124  tmux
+ 1125  tmux source-file ~/.tmux.conf
+ 1126  ls
+ 1127  rm 0679be63f2dddcb6ca6e921e8e6d8724/
+ 1128  rm -rf 0679be63f2dddcb6ca6e921e8e6d8724/
+ 1129  ls
+ 1130  vim ~/.tmux.conf 
+ 1131  exit
+ 1132  tmux source-file ~/.tmux.conf
+ 1133  tmux
+ 1134  tmux list
+ 1135  tmux list-buffers
+ 1136  tmux list-sessions
+ 1137  tmux 12
+ 1138  tmux a 4
+ 1139  tmux attach-session 4
+ 1140  tmux
+ 1141  cd codep/
+ 1142  cd OSlabs/
+ 1143  ls
+ 1144  mkdir lab4
+ 1145  vim --version
+ 1146  sensors
+ 1147  vim jecalnotes
+ 1148  vim
+ 1149  tmux
+ 1150  vim
+ 1151  tmux
+ 1152  vim
+ 1153  vim .vimrc
+ 1154  cd codep/
+ 1155  cd python/
+ 1156  ls
+ 1157  mkdir udemycourse
+ 1158  cd udemycourse/
+ 1159  ls
+ 1160  touch notes.txt
+ 1161  vim note.txt
+ 1162  tmux
+ 1163  sudo apt install gdebi
+ 1164  kkgdebi
+ 1165  gdebi-gtk
+ 1166  cd Downloads/
+ 1167  ls
+ 1168  cd ..
+ 1169  ls
+ 1170  exit 
+ 1171  vim
+ 1172  exit
+ 1173  ls
+ 1174  ils
+ 1175  l;s
+ 1176  ls
+ 1177  l;s
+ 1178  clear
+ 1179  ls
+ 1180  lsd
+ 1181  cd -
+ 1182  cd codep/
+ 1183  cd OSlabs/
+ 1184  cd *3
+ 1185  ls
+ 1186  rm obj 
+ 1187  ./compile
+ 1188  ls
+ 1189  ls
+ 1190  cd codep/
+ 1191  ls
+ 1192  cd OSlabs/
+ 1193  ls
+ 1194  clear
+ 1195  ls
+ 1196  lsd
+ 1197  cd *3
+ 1198  ls
+ 1199  less ex1.c 
+ 1200  vim ex1.c 
+ 1201  ls
+ 1202  touch 3ex.c
+ 1203  vim -X 3ex.c 
+ 1204  exit
+ 1205  code
+ 1206  tmux
+ 1207  tmnux
+ 1208  tmux 
+ 1209  exitr
+ 1210  exit 
+ 1211  tmux source-file ~/.tmux.conf
+ 1212  exit
+ 1213  vim .vimrc
+ 1214  vim ~/.tmux.conf
+ 1215  ls
+ 1216  clear
+ 1217  vim .bashrc 
+ 1218  exit
+ 1219  tmux sessions
+ 1220  man tmux
+ 1221  tmux source-file ~/.tmux.conf
+ 1222  t,ux
+ 1223  tmux
+ 1224  exir
+ 1225  exit
+ 1226  vim .vimrc
+ 1227  exit
+ 1228  vim .vimrc
+ 1229  exit
+ 1230  vim .vimrc
+ 1231  vim .bashrc
+ 1232  exit
+ 1233  gedit 
+ 1234  vim .vimrc
+ 1235  exit
+ 1236  tmux
+ 1237  cd codep/OSlabs/lab3/
+ 1238  ls
+ 1239  gcc -o obj 3ex.c 
+ 1240  vim codep/OSlabs/lab3/3ex.c 
+ 1241  vim : 
+ 1242  vim codep/OSlabs/lab3/3ex.c 
+ 1243  clear
+ 1244  less /
+ 1245  less ~/.tmux.conf
+ 1246  less ~/.tmux.conf
+ 1247  vim .vimrc
+ 1248  v
+ 1249  exit
+ 1250  exiut
+ 1251  exit
+ 1252  vim
+ 1253  exit
+ 1254  less ~/.tmux.conf
+ 1255  tmux
+ 1256  mv ~/.tmux.conf
+ 1257  mv ~/.tmux.conf ~/copiaTmuxConf
+ 1258  ls
+ 1259  tmux
+ 1260  sudo apt remove tmux
+ 1261  ciao come va?
+ 1262  vim
+ 1263  exit
+ 1264  vim .vimrc
+ 1265  vim
+ 1266  vim show
+ 1267  cd .vim
+ 1268  ls
+ 1269  man cp
+ 1270  cp .vimrc ~/confvim
+ 1271  ls
+ 1272  cd ..
+ 1273  ls
+ 1274  less confvim 
+ 1275  rm -r .vim
+ 1276  y
+ 1277  cd .vim
+ 1278  ls
+ 1279  cd ..
+ 1280  rm .vim
+ 1281  rm -r .vim
+ 1282  cd .vim
+ 1283  ls
+ 1284  sudo apt remove vim
+ 1285  v
+ 1286  cd ..
+ 1287  sudo apt remove vi
+ 1288  sudo apt remove vim
+ 1289  vim
+ 1290  sudo apt upgrade vim
+ 1291  vim
+ 1292  vim confvim 
+ 1293  ls
+ 1294  rm .vimrc
+ 1295  ls
+ 1296  cd .vim
+ 1297  ls
+ 1298  cd plugged/
+ 1299  ls
+ 1300  cd vim-autoformat/
+ 1301  ls
+ 1302  cd ..
+ 1303  vim confvim 
+ 1304  vim .vimrc 
+ 1305  sudo apt remove chrome
+ 1306  chrome
+ 1307  google chrome
+ 1308  googlwe
+ 1309  google
+ 1310  exir
+ 1311  exit
+ 1312  ls
+ 1313  cd .vim
+ 1314  mk
+ 1315  ls
+ 1316  mkdir autoload
+ 1317  cd autoload/
+ 1318  curl -fLo plug.vim https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+ 1319  ls
+ 1320  less plug.vim 
+ 1321  vim
+ 1322  vim ~/.vimrc
+ 1323  vim .vimrc
+ 1324  cd ~
+ 1325  vim .vimrc
+ 1326  exit
+ 1327  sudo apt install chromium
+ 1328  sudo apt remove chromium 
+ 1329  terminal
+ 1330  ls
+ 1331  cd gruvbox-gnome-temrinal/
+ 1332  ls
+ 1333  cd ..
+ 1334  pwd
+ 1335  ls
+ 1336  vim
+ 1337  vim 
+ 1338  vim
+ 1339  vim monokai-gnome-terminal/
+ 1340  ls
+ 1341  cd .cinnamon/
+ 1342  ls
+ 1343  cd backgrounds/
+ 1344  ls
+ 1345  cd ..
+ 1346  ls
+ 1347  cd .gnome/
+ 1348  ls
+ 1349  cd apps/
+ 1350  ls
+ 1351  cd ../..
+ 1352  ls
+ 1353  cd monokai-gnome-terminal/
+ 1354  ls
+ 1355  vim install.sh 
+ 1356  cd ..
+ 1357  mkdir gruvbox-gnome-temrinal
+ 1358  cd ..
+ 1359  mv -r * ~/.gruvbox-gnome-terminal
+ 1360  mv * ~/gruvbox-gnome-terminal
+ 1361  ls
+ 1362  cd alessandro/
+ 1363  ls
+ 1364  cd gruvbox-gnome-temrinal/
+ 1365  ls
+ 1366  cd src
+ 1367  ls
+ 1368  ls profiles.sh 
+ 1369  less profiles.sh 
+ 1370  clear
+ 1371  cd gruvbox-gnome-temrinal/
+ 1372  ls
+ 1373  ./install.sh 
+ 1374  exit
+ 1375  vim .vimrc
+ 1376  vim gruvbox-gnome-temrinal/
+ 1377  exit
+ 1378  vim gruvbox-gnome-temrinal/
+ 1379  ls
+ 1380  man mkdor
+ 1381  man mkdir
+ 1382  mkdir src
+ 1383  cd src
+ 1384  git clone https://github.com/Mayccol/Gogh.git gogh
+ 1385  git clone https://github.com/Mayccol/Gogh.git
+ 1386  sudo apt-get install dconf-cli uuid-runtime
+ 1387  bash -c  "$(wget -qO- https://git.io/vQgMr)"
+ 1388  63
+ 1389  bash -c  "$(wget -qO- https://git.io/vQgMr)"
+ 1390  cd /apps
+ 1391  cd /
+ 1392  ls
+ 1393  cd home
+ 1394  cd alessandro/
+ 1395  ls
+ 1396  vim gruvbox-gnome-temrinal/
+ 1397  cd gruvbox-gnome-temrinal/
+ 1398  ./install.sh 
+ 1399  ls
+ 1400  vim install.sh 
+ 1401  neofetch
+ 1402  htop
+ 1403  cowsay hello friends
+ 1404  neofetch
+ 1405  cowsay hello friends
+ 1406  htop
+ 1407  sudo apt remove wine
+ 1408  sudo apt remove lutris
+ 1409  sudo apt remove battle.net
+ 1410  sudo apt update
+ 1411  rm -rf gruvbox-gnome-temrinal/
+ 1412  htop
+ 1413  vim prova
+ 1414  vim
+ 1415  exit
+ 1416  neofetch
+ 1417  python3 robe.py
+ 1418  clear
+ 1419  python3 robe.py 
+ 1420  python3 robe.py madonnatroia
+ 1421  python3 robe.py
+ 1422  python3 robe.py madonna troia
+ 1423  vim
+ 1424  exit
+ 1425  vim .vimrc
+ 1426  cd codep/python/
+ 1427  ls
+ 1428  mkdir esercizi
+ 1429  cd esercizi/
+ 1430  touch robe.py
+ 1431  vim robe.py 
+ 1432  clear
+ 1433  htop
+ 1434  sudo apt install seahorse
+ 1435  seahorse
+ 1436  ls
+ 1437  rm .vimrc
+ 1438  ls
+ 1439  cd .vim
+ 1440  cd ..
+ 1441  git rm ~/.vimrc
+ 1442  git commit -m "provo a togliere vimrc da fuori la cartella .vim"
+ 1443  git commit
+ 1444  git push
+ 1445  git rm .vim/.vimrcopia
+ 1446  git commit -m "tolta copia di .vimrc"
+ 1447  git push
+ 1448  ls
+ 1449  cd .vim
+ 1450  ls
+ 1451  cd ..
+ 1452  mv .vimrc .vim
+ 1453  ln ~/.vim/.vimrc .vimrc
+ 1454  ls
+ 1455  rm .vimrc
+ 1456  ln-s ~/.vim/.vimrc .vimrc
+ 1457  ln -s ~/.vim/.vimrc .vimrc
+ 1458  ls
+ 1459  cd .vim
+ 1460  git commit
+ 1461  git push
+ 1462  git remote origin git@github.com:aleLoPrete/vimconfig
+ 1463  git remote add origin git@github.com:aleLoPrete/vimconfig
+ 1464  git push
+ 1465  git brach -M main
+ 1466  git branch -M main
+ 1467  git push
+ 1468  git branch -M master
+ 1469  git push
+ 1470  git push --set-upstream origin main
+ 1471  less .vimrc
+ 1472  git branch -a
+ 1473  gitn push 
+ 1474  git push
+ 1475  git status
+ 1476  git add .vimrc
+ 1477  git status
+ 1478  git commit
+ 1479  git push
+ 1480  git fetch
+ 1481  vim .vimrxc
+ 1482  vim .vimrc
+ 1483  git branch
+ 1484  git push
+ 1485  git checkout
+ 1486  git branch
+ 1487  git status
+ 1488  git checkout master
+ 1489  git checkout main
+ 1490  mv .vimrc .vimrcopia
+ 1491  mv .vimrcopia ~
+ 1492  git checkout main
+ 1493  git remove .vimrc
+ 1494  git reset .vimrc
+ 1495  git status
+ 1496  git checkout master -f
+ 1497  git checkout main -f
+ 1498  git branch
+ 1499  git branch -d master
+ 1500  git merge
+ 1501  mv ~/.vimrcopia .
+ 1502  ls
+ 1503  git merge
+ 1504  git add .vimrcopia 
+ 1505  git push
+ 1506  git commit
+ 1507  git push
+ 1508  vim .vimrcopia 
+ 1509  cd ..
+ 1510  ls
+ 1511  vim .vimrc
+ 1512  rm .vimrc
+ 1513  ln -s .vim/.vimrcopia .vimrc
+ 1514  ls
+ 1515  vim .vimrc
+ 1516  vim .vim
+ 1517  vim .vimrc
+ 1518  cd .vim
+ 1519  git status
+ 1520  ls
+ 1521  git commit
+ 1522  git push
+ 1523  git branch
+ 1524  git branch -d master
+ 1525  git branch -D master
+ 1526  git branch
+ 1527  git add .vimrcopia
+ 1528  mv .vimrcopia .vimrc
+ 1529  ls
+ 1530  git commit
+ 1531  git add .vimrc
+ 1532  git commmit
+ 1533  git commit
+ 1534  git push
+ 1535  neofetch
+ 1536  exit
+ 1537  vim .vimrc
+ 1538  ls
+ 1539  ls .vim
+ 1540  ln -s ~/.vimrc .vimrc
+ 1541  vim .vimrc
+ 1542  ls
+ 1543  rm .vimrc
+ 1544  cd .v
+ 1545  cd .vim
+ 1546  ls
+ 1547  vim .vimrc
+ 1548  cd ..
+ 1549  ls
+ 1550  vim .bashrc
+ 1551  lsd
+ 1552  exit
+ 1553  calendar
+ 1554  man calendar
+ 1555  calendar
+ 1556  exit
+ 1557  sudo apt install gcalcli
+ 1558  sudo apt remove gcalcli
+ 1559  ls
+ 1560  dir
+ 1561  exit
+ 1562  ls
+ 1563  dir
+ 1564  dir --color=auto
+ 1565  ls -l
+ 1566  ls
+ 1567  ll
+ 1568  la
+ 1569  ls -a
+ 1570  man ls
+ 1571  la
+ 1572  ls
+ 1573  la
+ 1574  l
+ 1575  dir
+ 1576  ll
+ 1577  la
+ 1578  exit
+ 1579  lad
+ 1580  exit
+ 1581  lad
+ 1582  exir
+ 1583  exit
+ 1584  lad
+ 1585  ls
+ 1586  man ls
+ 1587  ls
+ 1588  man ls
+ 1589  exitr
+ 1590  exit
+ 1591  sudo apt remove gnome-calendar
+ 1592  ls
+ 1593  vim .bashrc
+ 1594  ls
+ 1595  ls -D
+ 1596  man ls
+ 1597  ls
+ 1598  la
+ 1599  ll
+ 1600  man ls
+ 1601  ll
+ 1602  man ls
+ 1603  ls
+ 1604  less confvim 
+ 1605  ls
+ 1606  rm confvim 
+ 1607  less copiaTmuxConf 
+ 1608  rm copiaTmuxConf 
+ 1609  ls
+ 1610  man ls
+ 1611  EXIT
+ 1612  exit
+ 1613  ls
+ 1614  less README.txt 
+ 1615  less 'qqC:Q' 
+ 1616  clear
+ 1617  ls
+ 1618  ll
+ 1619  vim .vimrc
+ 1620  ls
+ 1621  ll
+ 1622  cd .vim
+ 1623  ls
+ 1624  ll
+ 1625  cd ..
+ 1626  ln -s .vim/.vimrc .vimrc
+ 1627  ll
+ 1628  lll 
+ 1629  clear
+ 1630  ll
+ 1631  less .viminfo 
+ 1632  ls
+ 1633  mkdir notes
+ 1634  ls
+ 1635  dir
+ 1636  vim .bashrc
+ 1637  ls
+ 1638  ll
+ 1639  lll
+ 1640  ls
+ 1641  ll
+ 1642  lll
+ 1643  ll
+ 1644  ls
+ 1645  ll
+ 1646  ls
+ 1647  ls -l
+ 1648  ll
+ 1649  ls -l
+ 1650  open Firefox_wallpaper.png 
+ 1651  ]
+ 1652  clear
+ 1653  ls
+ 1654  ll
+ 1655  lll
+ 1656  l
+ 1657  matrix
+ 1658  cmatrix
+ 1659  ctrlp
+ 1660  vim :Sex
+ 1661  vim
+ 1662  tmux
+ 1663  sudo apt install tmux
+ 1664  tmux
+ 1665  clear
+ 1666  exit
+ 1667  htop
+ 1668  top
+ 1669  clear
+ 1670  exit
+ 1671  tmux
+ 1672  ls
+ 1673  ll
+ 1674  clear
+ 1675  exitr
+ 1676  exit
+ 1677  vim nuovatmuxconf 
+ 1678  vim .vimrc
+ 1679  vim nuovatmuxconf 
+ 1680  exit
+ 1681  gedit nuovatmuxconf
+ 1682  exit
+ 1683  vim .vimrc
+ 1684  vim .tmux.conf
+ 1685  vim .tmux.conf 
+ 1686  vim .vimrc
+ 1687  ll
+ 1688  ls
+ 1689  mv nuovatmuxconf .tmux.conf
+ 1690  tmux source-file ~/.tmux.conf
+ 1691  tmux
+ 1692  vim .tmux.conf 
+ 1693  tmux source-file .tmux.conf
+ 1694  tmux
+ 1695  vim .tmux.conf 
+ 1696  gedit .t
+ 1697  gedit .tmux.conf 
+ 1698  tmux
+ 1699  tmux source-file .tmux.conf
+ 1700  tmux
+ 1701  exir
+ 1702  exit
+ 1703  gedit .tmux.conf
+ 1704  tmux source-file .tmux.conf 
+ 1705  tmux
+ 1706  cd codep/
+ 1707  ls
+ 1708  cd OSlabs/
+ 1709  git status
+ 1710  ll
+ 1711  less README.txt 
+ 1712  tree .
+ 1713  cd lab4
+ 1714  ls
+ 1715  ll
+ 1716  cd ..
+ 1717  cd lab3
+ 1718  ls
+ 1719  less 3ex.c 
+ 1720  ls
+ 1721  cd codep/
+ 1722  cd OSlabs/
+ 1723  ls
+ 1724  cd *4
+ 1725  l
+ 1726  ls
+ 1727  touch 1es.c
+ 1728  exit
+ 1729  vim codep/OSlabs/
+ 1730  cd notes
+ 1731  ld
+ 1732  l
+ 1733  ll
+ 1734  ls
+ 1735  mkdir OS
+ 1736  git init
+ 1737  git remote add origin git@github.com:aleLoPrete/notes.git
+ 1738  git branch -n main
+ 1739  git branch
+ 1740  git brach main 
+ 1741  git branch main
+ 1742  git branch -M main
+ 1743  git branch
+ 1744  ll
+ 1745  rm -rf .git
+ 1746  git init
+ 1747  git remote add origin git@github.com:aleLoPrete/notes.git
+ 1748  git branch -M main
+ 1749  ll
+ 1750  rm OS/
+ 1751  rm -r OS/
+ 1752  mkdir os
+ 1753  mkdir opsys
+ 1754  git add opsys
+ 1755  rm -r os
+ 1756  git commit 'first commit'
+ 1757  git add opsys
+ 1758  git status
+ 1759  cd opsys/
+ 1760  touch advancedControl.md
+ 1761  git add advancedControl.md 
+ 1762  cd ..
+ 1763  git commit 'first commit'
+ 1764  git satus
+ 1765  git status
+ 1766  git commit -m 'first commit'
+ 1767  git branch -M main
+ 1768  git push
+ 1769  git push --set-upstream origin main
+ 1770  clear
+ 1771  cd opsys/
+ 1772  vim advancedControl.md 
+ 1773  cd ..
+ 1774  git commit -m 'first try for md'
+ 1775  git status
+ 1776  git add opsys/advancedControl.md 
+ 1777  git commit 'first md file'
+ 1778  git commit -m 'first md file'
+ 1779  git push
+ 1780  cd opsys/
+ 1781  vim advancedControl.md 
+ 1782  git add advancedControl.md 
+ 1783  git commit -m 'error on md'
+ 1784  git push
+ 1785  vim a
+ 1786  vim advancedControl.md 
+ 1787  git commit -m 'just some notes'
+ 1788  git branch
+ 1789  git add advancedControl.md 
+ 1790  git commit -m 'just some notes'
+ 1791  git push
+ 1792  vim
+ 1793  htop
+ 1794  sensors
+ 1795  htop
+ 1796  exit
+ 1797  ranger
+ 1798  t
+ 1799  exit
+ 1800  ls
+ 1801  ll
+ 1802  cd Poli
+ 1803  ll
+ 1804  vim .vim\
+ 1805  ll
+ 1806  mkdir Music
+ 1807  ll
+ 1808  cd Downloads/
+ 1809  ll
+ 1810  cd ..
+ 1811  cd Poli\
+ 1812  ll
+ 1813  cd ..
+ 1814  cd Politecnico/
+ 1815  ll
+ 1816  cd esami\ passati/
+ 1817  ll
+ 1818  cd ..
+ 1819  exit
+ 1820  ll
+ 1821  cd Politecnic
+ 1822  cd Politecnico/
+ 1823  ll
+ 1824  cd Fisica\ II/
+ 1825  ll
+ 1826  cd ..
+ 1827  ll
+ 1828  ls
+ 1829  cd CV
+ 1830  ll
+ 1831  cd ..
+ 1832  ll
+ 1833  cd Politecnico
+ 1834  ll
+ 1835  ls
+ 1836  cd ..
+ 1837  exit
+ 1838  neofetch
+ 1839  vim
+ 1840  man mkdir
+ 1841  figlet
+ 1842  sudo apt install figlet
+ 1843  figlet " hello friend"
+ 1844  clear
+ 1845  figlet "... and we're back!"
+ 1846  figlet "system ready to operates"
+ 1847  figlet "system ready
+ 1848  figlet "system ready XoX"
+ 1849  lolcat
+ 1850  sudo apt install lolca
+ 1851  figlet "system ready XoX" | lolcat
+ 1852  figlet "system ready " | lolcat
+ 1853  clear
+ 1854  exit
+ 1855  exitr
+ 1856  exit
+ 1857  comunque questa è molto più comoda però è meno giocosa
+ 1858  vim prova tastiere
+ 1859  ll
+ 1860  mkdir wallpapers
+ 1861  mv wallheave* wallpapers/
+ 1862  mv wallh* wallpapers/
+ 1863  llj
+ 1864  ll
+ 1865  exit
+ 1866  cd code
+ 1867  ll
+ 1868  git init
+ 1869  git remote origin add git@github.com:aleLoPrete/OSlabs
+ 1870  git remote add origin git@github.com:aleLoPrete/OSlabs
+ 1871  ll
+ 1872  git clone https://gituhub.com/aleLoPrete/OSlabs
+ 1873  ll
+ 1874  rm -rf .git
+ 1875  ll
+ 1876  git clone https://gituhub.com/aleLoPrete/OSlabs
+ 1877  exit
+ 1878  cd code
+ 1879  mkdir opsysLab
+ 1880  cd opsysLab/
+ 1881  mkdir lab4
+ 1882  cd lab4/
+ 1883  cd .
+ 1884  cd ..
+ 1885  git clone https://github.com/aleLoPrete/OSlabs.git 
+ 1886  ll
+ 1887  OSlabs/
+ 1888  cd OSlabs/
+ 1889  ll
+ 1890  cdd ..
+ 1891  cd ..
+ 1892  rm -rf opsysLab/
+ 1893  cd OSlabs/
+ 1894  ll
+ 1895  mkdir lab4
+ 1896  cd4
+ 1897  cd *4
+ 1898  ll
+ 1899  touch ex1
+ 1900  vim ex1
+ 1901  mx ex1 1ex.c
+ 1902  mv ex1 1ex
+ 1903  l
+ 1904  ll
+ 1905  vim 1ex 
+ 1906  ls 
+ 1907  cd ~/.vim
+ 1908  ll
+ 1909  cd plugged/
+ 1910  ll
+ 1911  cd Youcompleteme/
+ 1912  ll
+ 1913  ./intall.sh
+ 1914  ./install.sh
+ 1915  exit
+ 1916  ll
+ 1917  sudo apt list
+ 1918  apt list all
+ 1919  apt list
+ 1920  sudot apt update
+ 1921  sudo apt updat
+ 1922  sudo apt update
+ 1923  mkdir code
+ 1924  ll
+ 1925  x
+ 1926  exit
+ 1927  ranger
+ 1928  cd code/
+ 1929  vim . 
+ 1930  cd .
+ 1931  vim .
+ 1932  ll
+ 1933  vim .
+ 1934  ll
+ 1935  cd O
+ 1936  cd OSlabs/
+ 1937  ll
+ 1938  cd lab4
+ 1939  ll
+ 1940  cd ..
+ 1941  cd lab3
+ 1942  ll
+ 1943  gcc -o 2obj 2ex.c
+ 1944  gcc -o 2obj 2ex.c 
+ 1945  gcc -o 2obj 2ex.c
+ 1946  ll
+ 1947  ./2obj 
+ 1948  rm 2obj 
+ 1949  gcc -o 2obj 2ex.c 
+ 1950  ./2obj 
+ 1951  rm 2obj
+ 1952  gcc -o 2obj 2ex.c 
+ 1953  ./2obj 
+ 1954  ll
+ 1955  cd code
+ 1956  ls
+ 1957  cd OSlabs/
+ 1958  cd *4
+ 1959  ll
+ 1960  cd ..
+ 1961  cd *3
+ 1962  ll
+ 1963  rm 2obj 
+ 1964  gcc -o 2obj 2ex.c 
+ 1965  ./2obj 
+ 1966  rm 2obj 
+ 1967  gcc -o 2obj 2ex.c 
+ 1968  ./2obj 
+ 1969  rm 2obj 
+ 1970  gcc -o 2obj 2ex.c 
+ 1971  ./2obj 
+ 1972  rm 2obj 
+ 1973  gcc -o 2obj 2ex.c 
+ 1974  ./2obj 
+ 1975  rm 2obj 
+ 1976  gcc -o 2obj 2ex.c 
+ 1977  ./2obj 
+ 1978  rm 2obj 
+ 1979  ./2obj 
+ 1980  gcc -o 2obj 2ex.c 
+ 1981  ./2obj 
+ 1982  rm 2obj 
+ 1983  gcc -o 2obj 2ex.c 
+ 1984  ./2obj 
+ 1985  rm 2obj 
+ 1986  gcc -o 2obj 2ex.c 
+ 1987  ./2obj 
+ 1988  ll
+ 1989  vim l03e02ver1.c 
+ 1990  ll
+ 1991  vim l03e02ver2
+ 1992  vim *2
+ 1993  vim *2.c
+ 1994* friglet "ciao"k
+ 1995  hisotry
+ 1996  hisotory
+ 1997  history
+ 1998  clear
+ 1999  less history
+ 2000  history > ht.txt
