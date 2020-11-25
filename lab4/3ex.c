@@ -9,8 +9,15 @@
 #include <errno.h>
 #include <stdarg.h>
 
-int main(){
-    
-
-
+int main(int *argc, char **argv){ 
+   FILE *fp = fopen(argv[1], "r");   
+   char *command = malloc(sizeof(char)*30);
+   if(fp==NULL) fprintf(stdout,"errore apertura file"); return -1;
+   // assuming \n after each command 
+   while(fscanf(fp, "%s", command ) != EOF){
+       fprintf(stdout,"\nSto eseguendo il comando %s\n", command);
+       system(command);
+   } 
+   fclose(fp);
+   return 0;
 }
