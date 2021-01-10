@@ -1,8 +1,8 @@
-Operating Systems exercises
+# Operating Systems exercises
 
 During the operating systems course I had the oppportunity to practice on some concept viewd in class.
 
-Topics:
+_Topics_:
     - system calls in UNIX environment
     - basics of multi-process programming
     - basics of multi-thread programming
