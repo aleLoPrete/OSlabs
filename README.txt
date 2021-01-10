@@ -1,7 +1,11 @@
-Operating systems exercises
+Operating Systems exercises
 
-Just some laboratories from my operating systems course.
-Mainly C and bash exercises.
+During the operating systems course I had the oppportunity to practice on some concept viewd in class.
+
 Topics:
     - system calls in UNIX environment
+    - basics of multi-process programming
+    - basics of multi-thread programming
+    - singals in UNIX environemnt
+    - process and thread synchronization
     - basics of bash scripting
