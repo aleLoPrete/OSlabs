@@ -112,7 +112,7 @@ int sender(int rec_pid, int *fd)
         if (strcmp(word, "END"))
             break;
         pause();
-    } while (1)
+    } while (1);
 
-        return 1;
+    return 1;
 }
