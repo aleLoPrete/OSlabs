@@ -1,2 +1,4 @@
-hellomake: main.c
-	gcc -o obj main.c  -I.
+hellomake: lab11es4.c
+	gcc -pthread -o obj lab11es4.c  -I.
+
+
