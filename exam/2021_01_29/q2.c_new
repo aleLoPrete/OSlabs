@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+
+int main()
+{
+    int x;
+    x = 0;
+    while (x < 2 && fork())
+    {
+        if (!fork())
+            execlp("echo", "x++", "x", NULL);
+        x++;
+        sleep(1);
+        system("echo x+x");
+    }
+}
