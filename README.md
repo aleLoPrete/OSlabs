@@ -1,8 +1,8 @@
 ## Operating Systems laboratories
 
-During the operating systems course I had the oppportunity to practice on some concept viewd in class.
+During the Introduction to Operating Systems course @PoliTO I had the oppportunity to carry out some exercises on basic system programming topics.
 
-**Topics**:
+### Topics
 * system calls in UNIX environment
 * basics of multi-process programming
 * basics of multi-thread programming
